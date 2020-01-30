@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1007397388362",
+    "firebase_url": "https://vmail-858f2.firebaseio.com",
+    "project_id": "vmail-858f2",
+    "storage_bucket": "vmail-858f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007397388362:android:3e5ebd918723b7d5e266b3",
+        "android_client_info": {
+          "package_name": "com.example.vmail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007397388362-a9ucnibjpfcjg0trnfrba2ndqrsjnil5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vmail",
+            "certificate_hash": "3c3c0a5e4956a2d989462b0e900ee932c1c8ba11"
+          }
+        },
+        {
+          "client_id": "1007397388362-hs9blm2tqg6pec5mmqfghsho5dcb350c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGv282SuRoTF8L7XwKRzJBcHvykw85Uuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007397388362-hs9blm2tqg6pec5mmqfghsho5dcb350c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

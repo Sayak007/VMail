@@ -4,17 +4,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <stroke android:color="#0a0909"
-        android:width="2dp"/>
-
-    <corners android:radius="20dp"/>
-
-    <gradient android:angle="45"
-        android:type="linear"
-        android:startColor="#F8FF00"
-        android:endColor="#EA39C4"
-        android:useLevel="false"/>
-
-    <size android:height="250dp"
-        android:width="250dp"/>
+    <corners android:radius="15dp"/>
+    <solid android:color="#4c8bf5"/>
 </shape>
