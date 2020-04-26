@@ -161,7 +161,7 @@ public class MainActivity extends AppCompatActivity {
                             speak("provide ur password");
                             break;
                         case 5 :
-                            Config.PASSWORD =result.get(0);
+                            Config.PASSWORD =result.get(0);//
                             status.setText("Confirm?");
                             speak("Please Confirm the mail\n To : " + To.getText().toString() + "\nSubject : " + Subject.getText().toString() + "\nMessage : " + Message.getText().toString() +"your mail "+Config.EMAIL+"your password" +Config.PASSWORD + "\nSpeak Yes to confirm");
                             break;
