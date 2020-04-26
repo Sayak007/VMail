@@ -1,6 +1,7 @@
 package com.example.vmail;
 
 import javax.mail.Session;
+import javax.mail.Session;
 
 import android.app.ProgressDialog;
 import android.content.Context;
